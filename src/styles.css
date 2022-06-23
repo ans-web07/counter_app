@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: cornflowerblue;
+  text-align: center;
+  font: outline;
+  font-size: 2em;
+}
+#add {
+  font-size: 1em;
+  padding: none;
+  margin-right: 1em;
+}
+#sub {
+  font-size: 1em;
+  padding: none;s
+}
